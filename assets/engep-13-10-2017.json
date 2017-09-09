@@ -1,0 +1,89 @@
+{
+  "data":  [
+    {
+      "Dia": 13,
+      "Sala": "Espaço de Exposições",
+      "08h30 - 10h": "Sessão Temática de Pôster_6",
+      "10h - 10h30": "Coffee break",
+      "10h30 - 12h": "Sessão Temática de Pôster_6 (continuação)",
+      "12h": "Intervalo para almoço",
+    },
+    {
+      "Dia": 13,
+      "Sala": "Azaleia/Ipê",
+      "Pax": 500,
+      "10h30 - 12h": "PI 7_ Henrique Luis Correa (Rollins College) 'Tendências, prática e teoria na pesquisa em Supply Chain Management'",
+    },
+    {
+      "Dia": 13,
+      "Sala": "Hortência/Jasmin",
+      "Pax": 500,
+      "08h30 - 10h": "STO 78 Gestão Econômica",
+      "10h30 - 12h": "Case 2_Gabriel Nocit  (Médicos Sem Fronteiras) 'O papel do logístico nos projetos da Médicos Sem Fronteiras'",
+    },
+    {
+      "Dia": 13,
+      "Sala": "Bromélia",
+      "Pax": 150,
+      "08h30 - 10h": "STO 79 Gestão da Produção",
+      "10h30 - 12h": "STO 86 Gestão da Produção",
+    },
+    {
+      "Dia": 13,
+      "Sala": "Tulipa",
+      "Pax": 150,
+      "08h30 - 10h": "STO 80 Gestão da Produção",
+      "10h30 - 12h": "Workshop de Pós-graduação 5",
+    },
+    {
+      "Dia": 13,
+      "Sala": "Lírio",
+      "Pax": 150,
+      "08h30 - 10h": "STO 81 Gestão da Qualidade",
+      "10h30 - 12h": "STO 87 Gestão da Produção",
+      "13h30 - 15h": "Assembleia Geral",
+    },
+    {
+      "Dia": 13,
+      "Sala": "Girassol",
+      "Pax": 150,
+      "08h30 - 10h": "STO 82 Gestão da Produção",
+      "10h30 - 12h": "STO 88 Gestão da Produção",
+    },
+    {
+      "Dia": 13,
+      "Sala": "Margarida",
+      "Pax": 40,
+      "08h30 - 10h": "STO 83  Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
+      "10h30 - 12h": "STO 89 Ergonomia e Segurança do Trabalho",
+    },
+    {
+      "Dia": 13,
+      "Sala": "Acácia",
+      "Pax": 40,
+      "08h30 - 10h": "STO 84  Gestão do Conhecimento Organizacional",
+      "10h30 - 12h": "STO 90 Educação em Engenharia de Produção",
+    },
+    {
+      "Dia": 13,
+      "Sala": "Violeta",
+      "Pax": 40,
+      "08h30 - 10h": "STO 85 Pesquisa Operacional",
+      "10h30 - 12h": "STO 91  Gestão Estratégica e Organizacional",
+    },
+    {
+      "Dia": 13,
+      "Sala": "Antúrio",
+      "Pax": 40,
+      "08h30 - 10h": "Workshop de Iniciação Científica 11",
+
+      "10h30 - 12h": "",
+    },
+    {
+      "Dia": 13,
+      "Sala": "Gérbera",
+      "Pax": 40,
+      "08h30 - 12h": "ConaJOVEM Conferência Nacional da ABEPRO Jovem",
+    }
+  ]
+}
