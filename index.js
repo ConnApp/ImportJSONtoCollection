@@ -1,3 +1,3 @@
-const lib = require('lib/index.js')
+const lib = require('./lib/index.js')
 
 module.exports = lib
