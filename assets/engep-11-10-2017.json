@@ -6,36 +6,36 @@
       "08h30 - 10h": {
         "order": 2,
         "name": "Sessão Temática de Pôster",
-        "type": "Sessão Temática de Pôster",
+        "type": "Sessão Temática de Pôster"
       },
       "10h - 10h30": {
         "name": "Coffe Break",
-        "type": "Get Together",
+        "type": "Get Together"
       },
       "10h30 - 12h": {
         "order": 2,
         "name": "Sessão Temática de Pôster (Continuação)",
-        "type": "Sessão Temática de Pôster",
+        "type": "Sessão Temática de Pôster"
       },
       "12h - 13h30": {
         "local": "N/A",
         "name": "Intervalo para almoço",
-        "type": "Intervalo",
+        "type": "Intervalo"
       },
       "13h30 - 15h": {
         "order": 3,
         "name": "Sessão Temática de Pôster",
-        "type": "Sessão Temática de Pôster",
+        "type": "Sessão Temática de Pôster"
       },
       "15h": {
         "name": "Coffe Break",
-        "type": "Get Together",
+        "type": "Get Together"
       },
       "21h - 01h": {
         "name": "Festa dos Alunos",
         "local": "Bierville",
-        "type": "Get Together",
-      },
+        "type": "Get Together"
+      }
     },
     {
       "Dia": 11,
@@ -44,40 +44,40 @@
       "08h30 - 10h": {
         "order": 22,
         "name": "Gestão Estratégica e Organizacional",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "name": "Anderson Pacheco - Tesla",
         "speakers": [
-          "Anderson Pacheco - Tesla",
+          "Anderson Pacheco - Tesla"
         ],
         "order": 1,
-        "type": "Palesta Internacional",
+        "type": "Palesta Internacional"
       },
       "13h30 - 15h": {
         "name": "Remanufacturing Supply Chain Management",
         "speakers": [
-          "Mingzuo Jin - Universidade do Tenesse",
+          "Mingzuo Jin - Universidade do Tenesse"
         ],
         "order": 2,
-        "type": "Palesta Internacional",
+        "type": "Palesta Internacional"
       },
       "15h - 16h30": {
         "name": "From Industrial Engineering towards Industrial Data Science",
         "speakers": [
-          "Jochen Deuse - TU Dortmund",
+          "Jochen Deuse - TU Dortmund"
         ],
         "order": 3,
-        "type": "Palesta Internacional",
+        "type": "Palesta Internacional"
       },
       "17h - 18h30": {
         "name": "Lideranças Empresarias",
         "speakers": [
           "Luiz Antonio Selbach - Selbetti",
-          "Paulo Mol Junior - CNI",
+          "Paulo Mol Junior - CNI"
         ],
-        "type": "Painel",
-      },
+        "type": "Painel"
+      }
     },
     {
       "Dia": 11,
@@ -86,43 +86,43 @@
       "08h30 - 10h": {
         "name": "Industria 4.0: desvendando  aplicações práticas: simulação integrada + análise preditiva",
         "speakers": [
-          "Alain de Norman et d'Audenhove - Belge Consultoria",
+          "Alain de Norman et d'Audenhove - Belge Consultoria"
         ],
         "order": 1,
-        "type": "Palesta Nacional",
+        "type": "Palesta Nacional"
       },
       "10h30 - 12h": {
         "name": "Aplicações de DEA na infraestrutura",
         "speakers": [
-          "Peter Wanke - COPPEAD-UFRJ",
+          "Peter Wanke - COPPEAD-UFRJ"
         ],
         "order": 3,
-        "type": "Palesta Nacional",
+        "type": "Palesta Nacional"
       },
       "13h30 - 15h": {
         "name": "Logística Humanitária",
         "speakers": [
-          "Adriana Leiras - PUC-RJ",
+          "Adriana Leiras - PUC-RJ"
         ],
         "order": 4,
-        "type": "Palesta Nacional",
+        "type": "Palesta Nacional"
       },
       "15h - 16h30": {
         "name": "Lean Healthcare – Situação Atual e Perspectivas da Engenharia de Produção",
         "speakers": [
-          "Guilherme Vaccaro - Unisinos",
+          "Guilherme Vaccaro - Unisinos"
         ],
         "order": 5,
-        "type": "Palesta Nacional",
+        "type": "Palesta Nacional"
       },
       "17h - 18h30": {
         "name": "A importância da Engenharia de Produção no Supply Chain Management",
         "speakers": [
-          "Jorge B. Silveira - MultiEng Consultoria",
+          "Jorge B. Silveira - MultiEng Consultoria"
         ],
         "order": 6,
-        "type": "Palesta Nacional",
-      },
+        "type": "Palesta Nacional"
+      }
     },
     {
       "Dia": 11,
@@ -131,23 +131,23 @@
       "08h30 - 10h": {
         "name": "Manufatura Avançada: Conceitos, Fatos, Desafios",
         "speakers": [
-          "Ari Nelson Costa - Mauá",
+          "Ari Nelson Costa - Mauá"
         ],
         "order": 2,
-        "type": "Palesta Nacional",
+        "type": "Palesta Nacional"
       },
       "10h30 - 12h": {
         "name": "Sessão sobre Certificação Profissional",
-        "type": "Get Together de Graduação",
+        "type": "Get Together de Graduação"
       },
       "13h30 - 15h": {
         "name": "ENEJEPRO (Encontro Nacional de Empresas Juniores de Engenharia de Produção)",
-        "type": "Encontro",
+        "type": "Encontro"
       },
       "17h - 18h30": {
         "name": "ENEJEPRO (Encontro Nacional de Empresas Juniores de Engenharia de Produção) - Continuação",
-        "type": "Encontro",
-      },
+        "type": "Encontro"
+      }
     },
     {
       "Dia": 11,
@@ -156,13 +156,13 @@
       "08h30 - 10h": {
         "order": 23,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "order": 28,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 11,
@@ -171,28 +171,28 @@
       "08h30 - 10h": {
         "order": 24,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "order": 29,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "13h30 - 15h": {
         "order": 4,
         "name": "Workshop de Iniciação Científica",
-        "type": "Workshop de Iniciação Científica",
+        "type": "Workshop de Iniciação Científica"
       },
       "15h - 16h30": {
         "order": 5,
         "name": "Workshop de Iniciação Científica",
-        "type": "Workshop de Iniciação Científica",
+        "type": "Workshop de Iniciação Científica"
       },
       "17h - 18h30": {
         "order": 6,
         "name": "Workshop de Iniciação Científica",
-        "type": "Workshop de Iniciação Científica",
-      },
+        "type": "Workshop de Iniciação Científica"
+      }
     },
     {
       "Dia": 11,
@@ -201,28 +201,28 @@
       "08h30 - 10h": {
         "order": 1,
         "name": "Logística Urbana: o desafio das megacidades e a chegada dos sistemas ciberfísicos",
-        "type": "Sessão Dirigida",
+        "type": "Sessão Dirigida"
       },
       "10h30 - 12h": {
         "order": 2,
         "name": "Formação do engenheiro frente às oportunidades emergentes relacionadas à Indústria 4.0: Desafios & Oportunidades",
-        "type": "Sessão Dirigida",
+        "type": "Sessão Dirigida"
       },
       "13h30 - 15h": {
         "order": 32,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "15h - 16h30": {
         "order": 37,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "17h - 18h30": {
         "order": 43,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 11,
@@ -231,28 +231,28 @@
       "08h30 - 10h": {
         "order": 25,
         "name": "Gestão da ProdQualidadeução",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "order": 30,
         "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "13h30 - 15h": {
         "order": 33,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "15h - 16h30": {
         "order": 38,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "17h - 18h30": {
         "order": 44,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 11,
@@ -261,28 +261,28 @@
       "08h30 - 10h": {
         "order": 26,
         "name": "Gestão do Conhecimento Organizacional",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "order": 33,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "13h30 - 15h": {
         "order": 34,
         "name": "Gestão Econômica",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "15h - 16h30": {
         "order": 39,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "17h - 18h30": {
         "order": 45,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 11,
@@ -291,23 +291,23 @@
       "08h30 - 10h": {
         "order": 27,
         "name": "Ergonomia e Segurança do Trabalho",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "order": 1,
         "name": "Sessão Temática Internacional",
-        "type": "Sessão Temática Internacional ",
+        "type": "Sessão Temática Internacional "
       },
       "15h - 16h30": {
         "order": 40,
         "name": "Ergonomia e Segurança do Trabalho",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "17h - 18h30": {
         "order": 46,
         "name": "Gestão do Conhecimento Organizacional",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 11,
@@ -316,28 +316,28 @@
       "08h30 - 10h": {
         "order": 1,
         "name": "Workshop de Pós-graduação",
-        "type": "Workshop de Pós-graduação",
+        "type": "Workshop de Pós-graduação"
       },
       "10h30 - 12h": {
         "order": 2,
         "name": "Workshop de Pós-graduação",
-        "type": "Workshop de Pós-graduação",
+        "type": "Workshop de Pós-graduação"
       },
       "13h30 - 15h": {
         "order": 35,
         "name": "Educação em Engenharia de Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "15h - 16h30": {
         "order": 41,
         "name": "Gestão do Produto",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "17h - 18h30": {
         "order": 47,
         "name": "Pesquisa Operacional",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 11,
@@ -346,23 +346,23 @@
       "08h30 - 10h": {
         "order": 2,
         "name": "Workshop de Iniciação Científica",
-        "type": "Workshop de Iniciação Científica",
+        "type": "Workshop de Iniciação Científica"
       },
       "10h30 - 12h": {
         "order": 3,
         "name": "Workshop de Iniciação Científica",
-        "type": "Workshop de Iniciação Científica",
+        "type": "Workshop de Iniciação Científica"
       },
       "13h30 - 15h": {
         "order": 36,
         "name": "Gestão Estratégica e Organizacional",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "15h - 16h30": {
         "order": 42,
         "name": "Pesquisa Operacional",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     }
   ]
 }

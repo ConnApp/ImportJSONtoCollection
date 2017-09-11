@@ -6,31 +6,31 @@
       "08h30 - 10h": {
         "order": 4,
         "name": "Sessão Temática de Pôster",
-        "type": "Sessão Temática de Pôster",
+        "type": "Sessão Temática de Pôster"
       },
       "10h - 10h30": {
         "name": "Welcome Coffee",
-        "type": "Get Together",
+        "type": "Get Together"
       },
       "10h30 - 12h": {
         "order": 4,
         "name": "Sessão Temática de Pôster (Continuação)",
-        "type": "Sessão Temática de Pôster",
+        "type": "Sessão Temática de Pôster"
       },
       "12h - 13h30": {
         "local": "N/A",
         "name": "Intervalo para almoço",
-        "type": "Intervalo",
+        "type": "Intervalo"
       },
       "13h30 - 15h": {
         "order": 5,
         "name": "Sessão Temática de Pôster",
-        "type": "Sessão Temática de Pôster",
+        "type": "Sessão Temática de Pôster"
       },
       "16h30 - 17h": {
         "name": "Coffe Break",
-        "type": "Get Together",
-      },
+        "type": "Get Together"
+      }
     },
     {
       "Dia": 13,
@@ -39,40 +39,40 @@
       "08h30 - 10h": {
         "order": 48,
         "name": "Gestão da Qualidade",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "name": "Os desafio das novas tecnologias de motores à combustão para a indústria de fundição",
         "speakers": [
-          "Cássio L. F. Andrade - Tupy",
+          "Cássio L. F. Andrade - Tupy"
         ],
         "order": 7,
-        "type": "Palesta Nacional",
+        "type": "Palesta Nacional"
       },
       "13h30 - 15h": {
         "name": "Transportation CO2 Emissions in Logistics Decision Models",
         "speakers": [
-          "Josue Velazquez Martinez - MIT",
+          "Josue Velazquez Martinez - MIT"
         ],
         "order": 4,
-        "type": "Palesta Internacional",
+        "type": "Palesta Internacional"
       },
       "15h - 16h30": {
         "name": "Green Supply Chains: Past Present and Future",
         "speakers": [
-          "Joseph Sarkis - WPI",
+          "Joseph Sarkis - WPI"
         ],
         "order": 5,
-        "type": "Palesta Internacional",
+        "type": "Palesta Internacional"
       },
       "17h - 18h30": {
         "name": "O Futuro das Organizações",
         "speakers": [
-          "Felipe Menezes - Feevale",
+          "Felipe Menezes - Feevale"
         ],
         "order": 10,
-        "type": "Palesta Nacional",
-      },
+        "type": "Palesta Nacional"
+      }
     },
     {
       "Dia": 13,
@@ -81,40 +81,40 @@
       "08h30 - 10h": {
         "order": 49,
         "name": "Ergonomia e Segurança do Trabalho",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "name": "Palesta Nacional",
         "speakers": [
-          "Dalvio Tubino - UFSC",
+          "Dalvio Tubino - UFSC"
         ],
         "order": 8,
-        "type": "Palesta Nacional",
+        "type": "Palesta Nacional"
       },
       "13h30 - 15h": {
         "name": "Tecnologia, processos e meio ambiente em um mundo em transformação",
         "speakers": [
-          "Ariel Scheffer - Itaipu Binacional",
+          "Ariel Scheffer - Itaipu Binacional"
         ],
         "order": 9,
-        "type": "Palesta Nacional",
+        "type": "Palesta Nacional"
       },
       "15h - 16h30": {
         "name": "O que você precisa saber sobre desenvolvimento tecnológico global: caso EMBRACO",
         "speakers": [
-          "Hélio Maciel Júnior - Embraco",
+          "Hélio Maciel Júnior - Embraco"
         ],
         "order": 1,
-        "type": "Case Empresarial",
+        "type": "Case Empresarial"
       },
       "17h - 18h30": {
         "name": "Desenvolvimento de Competências Profissionais Alinhadas com a Indústria 4.0: Project-Based Learning na Engenharia de Produção",
         "speakers": [
-          "Rui Lima - Universidade do Minho",
+          "Rui Lima - Universidade do Minho"
         ],
         "order": 6,
-        "type": "Palesta Internacional",
-      },
+        "type": "Palesta Internacional"
+      }
     },
     {
       "Dia": 13,
@@ -124,32 +124,32 @@
         "name": "Fixação de Doutores na Indústria",
         "speakers": [
           "Helcio Orlande - CAPES*",
-          "João Calixto - ABC",
+          "João Calixto - ABC"
         ],
-        "type": "Painel",
+        "type": "Painel"
       },
       "10h30 - 12h": {
         "name": "Fixação de Doutores na Indústria - Continuação",
         "speakers": [
           "Helcio Orlande - CAPES",
-          "João Calixto - ABC",
+          "João Calixto - ABC"
         ],
-        "type": "Painel",
+        "type": "Painel"
       },
       "13h30 - 15h": {
         "order": 59,
         "name": "Gestão Econômica",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "15h - 16h30": {
         "order": 65,
         "name": "Ergonomia e Segurança do Trabalho",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "17h - 18h30": {
         "name": "Workshop de Representações Regionais da ABEPRO GT-RR",
-        "type": "Workshop",
-      },
+        "type": "Workshop"
+      }
     },
     {
       "Dia": 13,
@@ -158,28 +158,28 @@
       "08h30 - 10h": {
         "order": 50,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "order": 55,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "13h30 - 15h": {
         "order": 60,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "15h - 16h30": {
         "order": 66,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "17h - 18h30": {
         "order": 72,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 13,
@@ -188,28 +188,28 @@
       "08h30 - 10h": {
         "order": 3,
         "name": "Workshop de Pós-graduação",
-        "type": "Workshop de Pós-graduação",
+        "type": "Workshop de Pós-graduação"
       },
       "10h30 - 12h": {
         "order": 4,
         "name": "Workshop de Pós-graduação",
-        "type": "Workshop de Pós-graduação",
+        "type": "Workshop de Pós-graduação"
       },
       "13h30 - 15h": {
         "order": 9,
         "name": "Workshop de Iniciação Científica",
-        "type": "Workshop de Iniciação Científica",
+        "type": "Workshop de Iniciação Científica"
       },
       "15h - 16h30": {
         "order": 10,
         "name": "Workshop de Iniciação Científica",
-        "type": "Workshop de Iniciação Científica",
+        "type": "Workshop de Iniciação Científica"
       },
       "17h - 18h30": {
         "order": 73,
         "name": "Gestão Estratégica e Organizacional",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 13,
@@ -218,22 +218,22 @@
       "08h30 - 10h": {
         "order": 51,
         "name": "Gestão do Produto",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "name": "Gestão Estratégica e Organizacional",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "13h30 - 15h": {
         "order": 61,
         "name": "Gestão Ambiental dos Processos Produtivos",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "15h - 16h30": {
         "order": 67,
         "name": "Educação em Engenharia de Produção",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 13,
@@ -242,23 +242,23 @@
       "08h30 - 10h":  {
         "order": 3,
         "name": "Lean Healthcare - Situação Atual e Perspectivas da Engenharia de Produção",
-        "type": "Sessão Dirigida",
+        "type": "Sessão Dirigida"
       },
       "10h30 - 12h":  {
         "order": 4,
         "name": "Metodologias Ativas, Currículos Integrados e Cursos de Curta Duração: uma forma de conferir aos egressos dos cursos de Engenharia de Produção as novas habilidades e competências exigidas pelo mercado de trabalho.",
-        "type": "Sessão Dirigida",
+        "type": "Sessão Dirigida"
       },
       "13h30 - 15h": {
         "order": 62,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "15h - 16h30": {
         "order": 68,
         "name": "Gestão do Conhecimento Organizacional",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 13,
@@ -267,28 +267,28 @@
       "08h30 - 10h": {
         "order": 7,
         "name": "Workshop de Iniciação Científica",
-        "type": "Workshop de Iniciação Científica",
+        "type": "Workshop de Iniciação Científica"
       },
       "10h30 - 12h": {
         "order": 8,
         "name": "Workshop de Iniciação Científica",
-        "type": "Workshop de Iniciação Científica",
+        "type": "Workshop de Iniciação Científica"
       },
       "13h30 - 15h": {
         "order": 69,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "15h - 16h30": {
         "order": 69,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "17h - 18h30": {
         "order": 74,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 13,
@@ -297,28 +297,28 @@
       "08h30 - 10h": {
         "order": 52,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "order": 56,
         "name": "Gestão da Produção",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "13h30 - 15h": {
         "order": 64,
         "name": "Pesquisa Operacional",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "15h - 16h30": {
         "order": 70,
         "name": "Pesquisa Operacional",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "17h - 18h30": {
         "order": 75,
         "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 13,
@@ -327,28 +327,28 @@
       "08h30 - 10h": {
         "order": 53,
         "name": "Gestão Econômica",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "order": 57,
         "name": "Gestão da Qualidade",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "13h30 - 15h": {
         "order": 2,
         "name": "Sessão Temática Internacional",
-        "type": "Sessão Temática Internacional",
+        "type": "Sessão Temática Internacional"
       },
       "15h - 16h30": {
         "order": 71,
         "name": "Gestão da Qualidade",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "17h - 18h30": {
         "order": 76,
         "name": "Gestão do Conhecimento Organizacional",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     },
     {
       "Dia": 13,
@@ -357,22 +357,22 @@
       "08h30 - 10h": {
         "order": 54,
         "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "10h30 - 12h": {
         "order": 58,
         "name": "Gestão Estratégica e Organizacional",
-        "type": "Sessão Temática Oral",
+        "type": "Sessão Temática Oral"
       },
       "13h30 - 15h": {
         "name": "Encontro de Núcleos Estaduais (ABEPRO Jovem)",
-        "type": "Encontro",
+        "type": "Encontro"
       },
       "17h - 18h30": {
         "order": 77,
         "name": "Pesquisa Operacional",
-        "type": "Sessão Temática Oral",
-      },
+        "type": "Sessão Temática Oral"
+      }
     }
   ]
 }
