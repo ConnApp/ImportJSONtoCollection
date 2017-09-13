@@ -7,29 +7,29 @@
         "08h30 - 10h": {
           "order": 1,
           "name": "Sessão Temática de Pôster",
-          "type": "Sessão Temática de Pôster"
+          "eventType": "Sessão Temática de Pôster"
         },
         "10h - 10h30": {
           "name": "Welcome Coffee",
-          "type": "Get Together"
+          "eventType": "Get Together"
         },
         "10h30 - 12h": {
           "order": 1,
           "name": "Sessão Temática de Pôster (Continuação)",
-          "type": "Sessão Temática de Pôster"
+          "eventType": "Sessão Temática de Pôster"
         },
         "12h - 13h30": {
           "local": "N/A",
           "name": "Intervalo para almoço",
-          "type": "Intervalo"
+          "eventType": "Intervalo"
         },
         "16h30 - 17h": {
           "name": "Coffe Break",
-          "type": "Get Together"
+          "eventType": "Get Together"
         },
         "19h - 21h": {
           "name": "Coquetel de Abertura",
-          "type": "Get Together"
+          "eventType": "Get Together"
         }
       }
     },
@@ -43,7 +43,7 @@
           "speakers": [
             "Ozires Silva - Ânima Educação"
           ],
-          "type": "Sessão de Abertura"
+          "eventType": "Sessão de Abertura"
         },
         "17h - 18h30": {
           "name": "Indústria 4.0",
@@ -53,7 +53,7 @@
             "Ozires Silva - Ânima Educação",
             "Francisco Giocondo César - IFSP"
           ],
-          "type": "Painel"
+          "eventType": "Painel"
         }
       }
     },
@@ -65,12 +65,12 @@
         "08h30 - 10h": {
           "order": 1,
           "name": "Gestão da Produção",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         },
         "10h30 - 12h": {
           "order": 11,
           "name": "Gestão da Produção",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         }
       }
     },
@@ -82,12 +82,12 @@
         "08h30 - 10h": {
           "order": 2,
           "name": "Gestão da Produção",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         },
         "10h30 - 12h": {
           "order": 12,
           "name": "Gestão da Produção",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         }
       }
     },
@@ -99,12 +99,12 @@
         "08h30 - 10h": {
           "order": 3,
           "name": "Gestão da Qualidade",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         },
         "10h30 - 12h": {
           "order": 13,
           "name": "Gestão da Qualidade",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         }
       }
     },
@@ -116,12 +116,12 @@
         "08h30 - 10h": {
           "order": 4,
           "name": "Ergonomia e Segurança do Trabalho",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         },
         "10h30 - 12h": {
           "order": 14,
           "name": "Gestão Econômica",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         }
       }
     },
@@ -133,12 +133,12 @@
         "08h30 - 10h": {
           "order": 5,
           "name": "Pesquisa Operacional",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         },
         "10h30 - 12h": {
           "order": 15,
           "name": "Ergonomia e Segurança do Trabalho",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         }
       }
     },
@@ -150,12 +150,12 @@
         "08h30 - 10h": {
           "order": 6,
           "name": "Gestão Ambiental dos Processos Produtivos",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         },
         "10h30 - 12h": {
           "order": 16,
           "name": "Gestão do Produto",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         }
       }
     },
@@ -167,12 +167,12 @@
         "08h30 - 10h": {
           "order": 7,
           "name": "Gestão da Produção",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         },
         "10h30 - 12h": {
           "order": 17,
           "name": "Gestão da Produção",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         }
       }
     },
@@ -184,12 +184,12 @@
         "08h30 - 10h": {
           "order": 8,
           "name": "Gestão da Produção",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         },
         "10h30 - 12h": {
           "order": 18,
           "name": "Gestão da Produção",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         }
       }
     },
@@ -201,12 +201,12 @@
         "08h30 - 10h": {
           "order": 9,
           "name": "Educação em Engenharia de Produção",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         },
         "10h30 - 12h": {
           "order": 19,
           "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         }
       }
     },
@@ -218,12 +218,12 @@
         "08h30 - 10h": {
           "order": 10,
           "name": "Gestão do Conhecimento Organizacional",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         },
         "10h30 - 12h": {
           "order": 20,
           "name": "Gestão do Conhecimento Organizacional",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         }
       }
     },
@@ -235,12 +235,12 @@
         "08h30 - 10h": {
           "order": 1,
           "name": "Gestão do Conhecimento Organizacional",
-          "type": "Workshop de Iniciação Científica"
+          "eventType": "Workshop de Iniciação Científica"
         },
         "10h30 - 12h": {
           "order": 21,
           "name": "Pesquisa Operacional",
-          "type": "Sessão Temática Oral"
+          "eventType": "Sessão Temática Oral"
         }
       }
     }
