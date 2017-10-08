@@ -1,0 +1,5376 @@
+[
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b650e"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 17,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.353Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b650f"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 1,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.295Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6514"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fe"
+    },
+    "name": "Metodologias Ativas, Currículos Integrados e Cursos de Curta Duração: uma forma de conferir aos egressos dos cursos de Engenharia de Produção as novas habilidades e competências exigidas pelo mercado de trabalho.",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.285Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6515"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f7"
+    },
+    "name": "Workshop de Pós-graduação",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.477Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b651a"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f7"
+    },
+    "name": "Workshop de Pós-graduação",
+    "order": 3,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.477Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b651b"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Pesquisa Operacional",
+    "order": 70,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.622Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b651c"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 24,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.646Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b651d"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Qualidade",
+    "order": 57,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.662Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b651e"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 29,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.646Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6520"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Pesquisa Operacional",
+    "order": 77,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.545Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6521"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f4"
+    },
+    "name": "Intervalo para almoço",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.750Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6522"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Pesquisa Operacional",
+    "order": 21,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.656Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6523"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 62,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.286Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6524"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
+    "order": 54,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.545Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6525"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 10,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.477Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6526"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 56,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.622Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6528"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fd"
+    },
+    "name": "Sessão Temática de Pôster",
+    "order": 5,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.761Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b652a"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Educação em Engenharia de Produção",
+    "order": 9,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.837Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b652c"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Conhecimento Organizacional",
+    "order": 76,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.662Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b652d"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T20:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64ff"
+    },
+    "name": "Coffe Break",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T19:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.750Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b652f"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f7"
+    },
+    "name": "Workshop de Pós-graduação",
+    "order": 1,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.808Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6530"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 6,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.646Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6532"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Gestão do Conhecimento Organizacional",
+    "order": 1,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.656Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6533"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 74,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.882Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6534"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Estratégica e Organizacional",
+    "order": 73,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.477Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6535"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 7,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.353Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6536"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fe"
+    },
+    "name": "Lean Healthcare - Situação Atual e Perspectivas da Engenharia de Produção",
+    "order": 3,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.285Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6537"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Produto",
+    "order": 41,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.808Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6538"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fd"
+    },
+    "name": "Sessão Temática de Pôster (Continuação)",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.761Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b6539"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f7"
+    },
+    "name": "Workshop de Pós-graduação",
+    "order": 2,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.808Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f847985923b0b81b653a"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64ff"
+    },
+    "name": "Welcome Coffee",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.761Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b653c"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Estratégica e Organizacional",
+    "order": 73,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b653d"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 9,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.477Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b653e"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 62,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.855Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b653f"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Pesquisa Operacional",
+    "order": 47,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.808Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6540"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.646Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6541"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Produto",
+    "order": 16,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.962Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6542"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64ff"
+    },
+    "name": "Coffe Break",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.034Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6543"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 52,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.622Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6544"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 50,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.086Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6545"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fe"
+    },
+    "name": "Metodologias Ativas, Currículos Integrados e Cursos de Curta Duração: uma forma de conferir aos egressos dos cursos de Engenharia de Produção as novas habilidades e competências exigidas pelo mercado de trabalho.",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.855Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6547"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f7"
+    },
+    "name": "Workshop de Pós-graduação",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6548"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6503"
+    },
+    "name": "Encontro de Núcleos Estaduais (ABEPRO Jovem)",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.545Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6549"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Econômica",
+    "order": 53,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.662Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b654a"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Estratégica e Organizacional",
+    "order": 58,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.545Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b654c"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
+    "order": 19,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.837Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b654d"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 11,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.295Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b654e"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Conhecimento Organizacional",
+    "order": 68,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.286Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b654f"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f7"
+    },
+    "name": "Workshop de Pós-graduação",
+    "order": 3,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6551"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 33,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.888Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6552"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fd"
+    },
+    "name": "Sessão Temática de Pôster (Continuação)",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.750Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6553"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b650b"
+    },
+    "name": "Sessão Temática Internacional",
+    "order": 2,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.662Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6554"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fd"
+    },
+    "name": "Sessão Temática de Pôster",
+    "order": 5,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.750Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6555"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64ff"
+    },
+    "name": "Welcome Coffee",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.169Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6556"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Pesquisa Operacional",
+    "order": 77,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.158Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6558"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Educação em Engenharia de Produção",
+    "order": 35,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.808Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6559"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 69,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.882Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b655b"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Ambiental dos Processos Produtivos",
+    "order": 6,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.962Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b655c"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fd"
+    },
+    "name": "Sessão Temática de Pôster",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.761Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b655d"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 55,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.086Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b655e"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Ambiental dos Processos Produtivos",
+    "order": 61,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.238Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b655f"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 8,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.881Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6560"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fd"
+    },
+    "name": "Sessão Temática de Pôster",
+    "order": 3,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.034Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6561"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 55,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.292Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6562"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Econômica",
+    "order": 53,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.270Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6563"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Pesquisa Operacional",
+    "order": 64,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.202Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6564"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Estratégica e Organizacional",
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.238Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6566"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 60,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.086Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6567"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T20:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64ff"
+    },
+    "name": "Coffe Break",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T19:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.761Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6569"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 8,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.062Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b656a"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Conhecimento Organizacional",
+    "order": 20,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.371Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b656b"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Qualidade",
+    "order": 71,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.662Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b656c"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Pesquisa Operacional",
+    "order": 5,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.881Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b656d"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fe"
+    },
+    "name": "Logística Urbana: o desafio das megacidades e a chegada dos sistemas ciberfísicos",
+    "order": 1,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b656e"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Ambiental dos Processos Produtivos",
+    "order": 61,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.401Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b656f"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Ergonomia e Segurança do Trabalho",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.285Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6570"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fd"
+    },
+    "name": "Sessão Temática de Pôster",
+    "order": 2,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.034Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6571"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 37,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6572"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6503"
+    },
+    "name": "Encontro de Núcleos Estaduais (ABEPRO Jovem)",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.158Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6573"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 3,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.166Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6574"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Conhecimento Organizacional",
+    "order": 68,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.855Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6575"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 18,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.062Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6576"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 45,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.255Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6577"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T00:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64ff"
+    },
+    "name": "Coquetel de Abertura",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T22:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.169Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6578"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 5,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.646Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6579"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 38,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.888Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b657a"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T20:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64ff"
+    },
+    "name": "Coffe Break",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T19:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.169Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b657b"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6527"
+    },
+    "name": "Desenvolvimento de Competências Profissionais Alinhadas com a Indústria 4.0: Project-Based Learning na Engenharia de Produção",
+    "order": 6,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6505"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-13T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.274Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b657c"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b654b"
+    },
+    "name": "Indústria 4.0",
+    "place": {
+      "$oid": "59d6f847985923b0b81b6511"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b651f"
+      },
+      {
+        "$oid": "59d6f847985923b0b81b650a"
+      },
+      {
+        "$oid": "59d6f847985923b0b81b6519"
+      },
+      {
+        "$oid": "59d6f847985923b0b81b6516"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-10T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.355Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b657d"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 2,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.166Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b657e"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
+    "order": 75,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.622Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b657f"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 66,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.086Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6580"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Conhecimento Organizacional",
+    "order": 10,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.371Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6581"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
+    "order": 30,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.888Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6582"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64ff"
+    },
+    "name": "Welcome Coffee",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.750Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6583"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "Palesta Nacional",
+    "order": 8,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6518"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.274Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6584"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fd"
+    },
+    "name": "Sessão Temática de Pôster",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.750Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6585"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "Os desafio das novas tecnologias de motores à combustão para a indústria de fundição",
+    "order": 7,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f846985923b0b81b64fa"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.402Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6586"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 12,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.426Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6587"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Ergonomia e Segurança do Trabalho",
+    "order": 40,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.928Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6588"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Produto",
+    "order": 51,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.401Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b658a"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6527"
+    },
+    "name": "Transportation CO2 Emissions in Logistics Decision Models",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6500"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.402Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b658b"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Pesquisa Operacional",
+    "order": 64,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.622Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b658c"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 10,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b658d"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T16:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f4"
+    },
+    "name": "Intervalo para almoço",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.169Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b658e"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 7,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.396Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b658f"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 52,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.202Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6590"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fe"
+    },
+    "name": "Lean Healthcare - Situação Atual e Perspectivas da Engenharia de Produção",
+    "order": 3,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.855Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6591"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 69,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.882Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6592"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 28,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.342Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6593"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b655a"
+    },
+    "name": "O que você precisa saber sobre desenvolvimento tecnológico global: caso EMBRACO",
+    "order": 1,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6501"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.274Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6594"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 60,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.292Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6595"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Educação em Engenharia de Produção",
+    "order": 67,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.401Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6596"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Ergonomia e Segurança do Trabalho",
+    "order": 65,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.447Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6597"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Pesquisa Operacional",
+    "order": 70,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.202Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6598"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 43,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b6599"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "Os desafio das novas tecnologias de motores à combustão para a indústria de fundição",
+    "order": 7,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f846985923b0b81b64fa"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.250Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b659a"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 44,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.888Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b659b"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6513"
+    },
+    "name": "Sessão Temática Internacional",
+    "order": 1,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.928Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b659c"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 23,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.342Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b659d"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 7,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.881Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b659e"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fd"
+    },
+    "name": "Sessão Temática de Pôster (Continuação)",
+    "order": 2,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.034Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b659f"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 56,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.202Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65a0"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fd"
+    },
+    "name": "Sessão Temática de Pôster (Continuação)",
+    "order": 1,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.169Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65a1"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Ergonomia e Segurança do Trabalho",
+    "order": 49,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.274Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65a2"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b6565"
+    },
+    "name": "Palestra Inaugural 'A Inovação e a Indústria 4.0'.",
+    "place": {
+      "$oid": "59d6f847985923b0b81b6511"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6519"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-10T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.355Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65a3"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Pesquisa Operacional",
+    "order": 42,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.166Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65a4"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T16:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f4"
+    },
+    "name": "Intervalo para almoço",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.034Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65a5"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f4"
+    },
+    "name": "Intervalo para almoço",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.761Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65a6"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6527"
+    },
+    "name": "Transportation CO2 Emissions in Logistics Decision Models",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6500"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.250Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65a7"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6527"
+    },
+    "name": "Green Supply Chains: Past Present and Future",
+    "order": 5,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6506"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.402Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65a8"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Conhecimento Organizacional",
+    "order": 46,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.929Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65a9"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Educação em Engenharia de Produção",
+    "order": 67,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.238Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65aa"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6503"
+    },
+    "name": "ENEJEPRO (Encontro Nacional de Empresas Juniores de Engenharia de Produção)",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.604Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65ab"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 72,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.086Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65ac"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6527"
+    },
+    "name": "Desenvolvimento de Competências Profissionais Alinhadas com a Indústria 4.0: Project-Based Learning na Engenharia de Produção",
+    "order": 6,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6505"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-12T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.666Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65ad"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b655a"
+    },
+    "name": "O que você precisa saber sobre desenvolvimento tecnológico global: caso EMBRACO",
+    "order": 1,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6501"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.666Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65ae"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Qualidade",
+    "order": 48,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.402Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65af"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6527"
+    },
+    "name": "Remanufacturing Supply Chain Management",
+    "order": 2,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b650d"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-11T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.787Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65b0"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Ergonomia e Segurança do Trabalho",
+    "order": 27,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.928Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65b1"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
+    "order": 54,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.158Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65b2"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 72,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.292Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65b3"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Estratégica e Organizacional",
+    "order": 22,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.787Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65b4"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da ProdQualidadeução",
+    "order": 25,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f2"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.888Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65b5"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Ergonomia e Segurança do Trabalho",
+    "order": 15,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.881Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65b6"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Estratégica e Organizacional",
+    "order": 58,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.158Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65b7"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Qualidade",
+    "order": 57,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.270Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65b8"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T21:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64ff"
+    },
+    "name": "Coffe Break",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.034Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65b9"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 39,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.255Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65ba"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 9,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f0"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:07.984Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65bb"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b650b"
+    },
+    "name": "Sessão Temática Internacional",
+    "order": 2,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.270Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65bc"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "Palesta Nacional",
+    "order": 8,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6518"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.666Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65bd"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Conhecimento Organizacional",
+    "order": 76,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.270Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65be"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Qualidade",
+    "order": 3,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.441Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65bf"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Qualidade",
+    "order": 71,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f5"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.270Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65c0"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "O Futuro das Organizações",
+    "order": 10,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b650a"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-13T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.250Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65c1"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 33,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.255Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65c2"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Estratégica e Organizacional",
+    "order": 36,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f1"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.166Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65c3"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 66,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.292Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f848985923b0b81b65c4"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T02:59:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64ff"
+    },
+    "name": "Festa dos Alunos (Bierville)",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T00:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.034Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65c5"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Conhecimento Organizacional",
+    "order": 26,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.255Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65c6"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b654b"
+    },
+    "name": "Fixação de Doutores na Indústria",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f846985923b0b81b64fb"
+      },
+      {
+        "$oid": "59d6f847985923b0b81b6509"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.446Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65c7"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 69,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.396Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65c8"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fe"
+    },
+    "name": "Formação do engenheiro frente às oportunidades emergentes relacionadas à Indústria 4.0: Desafios & Oportunidades",
+    "order": 2,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65c9"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6527"
+    },
+    "name": "Anderson Pacheco - Tesla",
+    "order": 1,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6510"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.787Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65ca"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Qualidade",
+    "order": 48,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.250Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65cb"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b654b"
+    },
+    "name": "Lideranças Empresarias",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b652b"
+      },
+      {
+        "$oid": "59d6f847985923b0b81b6531"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-11T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.787Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65cc"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Econômica",
+    "order": 14,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.285Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65cd"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b6557"
+    },
+    "name": "Workshop de Representações Regionais da ABEPRO GT-RR",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.447Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65ce"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Econômica",
+    "order": 34,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.255Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65cf"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6527"
+    },
+    "name": "From Industrial Engineering towards Industrial Data Science",
+    "order": 3,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b650c"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.787Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65d0"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Ergonomia e Segurança do Trabalho",
+    "order": 49,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.666Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65d1"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6503"
+    },
+    "name": "ENEJEPRO (Encontro Nacional de Empresas Juniores de Engenharia de Produção) - Continuação",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.604Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65d2"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
+    "order": 75,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64fc"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.202Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65d3"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "Tecnologia, processos e meio ambiente em um mundo em transformação",
+    "order": 9,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6507"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.274Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65d4"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64fd"
+    },
+    "name": "Sessão Temática de Pôster",
+    "order": 1,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ef"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.169Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65d5"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 32,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65d6"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b6527"
+    },
+    "name": "Green Supply Chains: Past Present and Future",
+    "order": 5,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6506"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.250Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65d7"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Estratégica e Organizacional",
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.401Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65d8"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b6557"
+    },
+    "name": "Workshop de Representações Regionais da ABEPRO GT-RR",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.941Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65d9"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f8"
+    },
+    "name": "Workshop de Iniciação Científica",
+    "order": 8,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.396Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65da"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 50,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6504"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.292Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65db"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão do Produto",
+    "order": 51,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6508"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.238Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65dc"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 2,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.426Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65dd"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-10T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Qualidade",
+    "order": 13,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-10T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.441Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65de"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 74,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.396Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65df"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "A importância da Engenharia de Produção no Supply Chain Management",
+    "order": 6,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6529"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-11T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:09.230Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65e0"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão da Produção",
+    "order": 69,
+    "place": {
+      "$oid": "59d6f847985923b0b81b6502"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.396Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65e1"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Econômica",
+    "order": 59,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-13T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.447Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65e2"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T21:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "O Futuro das Organizações",
+    "order": 10,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f3"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b650a"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-12T20:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.402Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65e3"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b6589"
+    },
+    "name": "Sessão sobre Certificação Profissional",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.604Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65e4"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b654b"
+    },
+    "name": "Fixação de Doutores na Indústria",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f846985923b0b81b64fb"
+      },
+      {
+        "$oid": "59d6f847985923b0b81b6509"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-12T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.940Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65e5"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-13T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b654b"
+    },
+    "name": "Fixação de Doutores na Indústria - Continuação",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f846985923b0b81b64fb"
+      },
+      {
+        "$oid": "59d6f847985923b0b81b6509"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-13T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.447Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65e6"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "Tecnologia, processos e meio ambiente em um mundo em transformação",
+    "order": 9,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6507"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.666Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65e7"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "Manufatura Avançada: Conceitos, Fatos, Desafios",
+    "order": 2,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b653b"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.604Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65e8"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T13:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "Industria 4.0: desvendando  aplicações práticas: simulação integrada + análise preditiva",
+    "order": 1,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f848985923b0b81b6568"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-11T11:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:09.230Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65e9"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Ergonomia e Segurança do Trabalho",
+    "order": 65,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.941Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65ea"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f846985923b0b81b64f6"
+    },
+    "name": "Gestão Econômica",
+    "order": 59,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [],
+    "start": {
+      "$date": "2017-10-12T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.941Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65eb"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T19:30:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "Lean Healthcare – Situação Atual e Perspectivas da Engenharia de Produção",
+    "order": 5,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f848985923b0b81b6550"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:09.230Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f849985923b0b81b65ec"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-12T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f848985923b0b81b654b"
+    },
+    "name": "Fixação de Doutores na Indústria - Continuação",
+    "place": {
+      "$oid": "59d6f846985923b0b81b64f9"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f846985923b0b81b64fb"
+      },
+      {
+        "$oid": "59d6f847985923b0b81b6509"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-12T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:08.941Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f84a985923b0b81b65ed"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T18:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "Logística Humanitária",
+    "order": 4,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f847985923b0b81b6512"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-11T16:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:09.230Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "59d6f84a985923b0b81b65ee"
+    },
+    "active": true,
+    "description": "",
+    "end": {
+      "$date": "2017-10-11T15:00:00.000Z"
+    },
+    "eventType": {
+      "$oid": "59d6f847985923b0b81b652e"
+    },
+    "name": "Aplicações de DEA na infraestrutura",
+    "order": 3,
+    "place": {
+      "$oid": "59d6f846985923b0b81b64ee"
+    },
+    "speakers": [
+      {
+        "$oid": "59d6f848985923b0b81b6546"
+      }
+    ],
+    "start": {
+      "$date": "2017-10-11T13:30:00.000Z"
+    },
+    "__v": 0,
+    "lastUpdate": {
+      "$date": "2017-10-06T03:28:09.230Z"
+    }
+  }
+]
