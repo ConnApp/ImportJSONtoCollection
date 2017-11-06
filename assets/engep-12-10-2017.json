@@ -1,0 +1,459 @@
+{
+  "data" : [
+    {
+      "Dia": 12,
+      "Sala": "Espaço de Exposições",
+      "events": {
+        "08h30 - 10h": {
+          "order": 4,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Sessão Temática de Pôster",
+          "eventType": "Sessão Temática de Pôster"
+        },
+        "10h - 10h30": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Welcome Coffee",
+          "eventType": "Get Together"
+        },
+        "10h30 - 12h": {
+          "order": 4,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Sessão Temática de Pôster (Continuação)",
+          "eventType": "Sessão Temática de Pôster"
+        },
+        "12h - 13h30": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Intervalo para almoço",
+          "eventType": "Intervalo"
+        },
+        "13h30 - 15h": {
+          "order": 5,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Sessão Temática de Pôster",
+          "eventType": "Sessão Temática de Pôster"
+        },
+        "16h30 - 17h": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Coffe Break",
+          "eventType": "Get Together"
+        }
+      }
+    },
+    {
+      "Dia": 12,
+      "Sala": "Azaleia/Ipê",
+      "Pax": 500,
+      "events": {
+        "08h30 - 10h": {
+          "order": 48,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Qualidade",
+          "eventType": "Sessão Temática Oral"
+        },
+        "10h30 - 12h": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Os desafio das novas tecnologias de motores à combustão para a indústria de fundição",
+          "speakers": [
+            "Cássio L. F. Andrade - Tupy"
+          ],
+          "order": 7,
+          "eventType": "Palesta Nacional"
+        },
+        "13h30 - 15h": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Transportation CO2 Emissions in Logistics Decision Models",
+          "speakers": [
+            "Josue Velazquez Martinez - MIT"
+          ],
+          "order": 4,
+          "eventType": "Palesta Internacional"
+        },
+        "15h - 16h30": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Green Supply Chains: Past Present and Future",
+          "speakers": [
+            "Joseph Sarkis - WPI"
+          ],
+          "order": 5,
+          "eventType": "Palesta Internacional"
+        },
+        "17h - 18h30": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "O Futuro das Organizações",
+          "speakers": [
+            "Felipe Menezes - Feevale"
+          ],
+          "order": 10,
+          "eventType": "Palesta Nacional"
+        }
+      }
+    },
+    {
+      "Dia": 12,
+      "Sala": "Hortência/Jasmin",
+      "Pax": 500,
+      "events": {
+        "08h30 - 10h": {
+          "order": 49,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Ergonomia e Segurança do Trabalho",
+          "eventType": "Sessão Temática Oral"
+        },
+        "10h30 - 12h": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Palesta Nacional",
+          "speakers": [
+            "Dalvio Tubino - UFSC"
+          ],
+          "order": 8,
+          "eventType": "Palesta Nacional"
+        },
+        "13h30 - 15h": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Tecnologia, processos e meio ambiente em um mundo em transformação",
+          "speakers": [
+            "Ariel Scheffer - Itaipu Binacional"
+          ],
+          "order": 9,
+          "eventType": "Palesta Nacional"
+        },
+        "15h - 16h30": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "O que você precisa saber sobre desenvolvimento tecnológico global: caso EMBRACO",
+          "speakers": [
+            "Hélio Maciel Júnior - Embraco"
+          ],
+          "order": 1,
+          "eventType": "Case Empresarial"
+        },
+        "17h - 18h30": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Desenvolvimento de Competências Profissionais Alinhadas com a Indústria 4.0: Project-Based Learning na Engenharia de Produção",
+          "speakers": [
+            "Rui Lima - Universidade do Minho"
+          ],
+          "order": 6,
+          "eventType": "Palesta Internacional"
+        }
+      }
+    },
+    {
+      "Dia": 12,
+      "Sala": "Bromélia",
+      "Pax": 150,
+      "events": {
+        "08h30 - 10h": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Fixação de Doutores na Indústria",
+          "speakers": [
+            "Helcio Orlande - CAPES*",
+            "João Calixto - ABC"
+          ],
+          "eventType": "Painel"
+        },
+        "10h30 - 12h": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Fixação de Doutores na Indústria - Continuação",
+          "speakers": [
+            "Helcio Orlande - CAPES",
+            "João Calixto - ABC"
+          ],
+          "eventType": "Painel"
+        },
+        "13h30 - 15h": {
+          "order": 59,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão Econômica",
+          "eventType": "Sessão Temática Oral"
+        },
+        "15h - 16h30": {
+          "order": 65,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Ergonomia e Segurança do Trabalho",
+          "eventType": "Sessão Temática Oral"
+        },
+        "17h - 18h30": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Workshop de Representações Regionais da ABEPRO GT-RR",
+          "eventType": "Workshop"
+        }
+      }
+    },
+    {
+      "Dia": 12,
+      "Sala": "Tulipa",
+      "Pax": 150,
+      "events": {
+        "08h30 - 10h": {
+          "order": 50,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Produção",
+          "eventType": "Sessão Temática Oral"
+        },
+        "10h30 - 12h": {
+          "order": 55,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Produção",
+          "eventType": "Sessão Temática Oral"
+        },
+        "13h30 - 15h": {
+          "order": 60,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Produção",
+          "eventType": "Sessão Temática Oral"
+        },
+        "15h - 16h30": {
+          "order": 66,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Produção",
+          "eventType": "Sessão Temática Oral"
+        },
+        "17h - 18h30": {
+          "order": 72,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Produção",
+          "eventType": "Sessão Temática Oral"
+        }
+      }
+    },
+    {
+      "Dia": 12,
+      "Sala": "Lírio",
+      "Pax": 150,
+      "events": {
+        "08h30 - 10h": {
+          "order": 3,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Workshop de Pós-graduação",
+          "eventType": "Workshop de Pós-graduação"
+        },
+        "10h30 - 12h": {
+          "order": 4,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Workshop de Pós-graduação",
+          "eventType": "Workshop de Pós-graduação"
+        },
+        "13h30 - 15h": {
+          "order": 9,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Workshop de Iniciação Científica",
+          "eventType": "Workshop de Iniciação Científica"
+        },
+        "15h - 16h30": {
+          "order": 10,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Workshop de Iniciação Científica",
+          "eventType": "Workshop de Iniciação Científica"
+        },
+        "17h - 18h30": {
+          "order": 73,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão Estratégica e Organizacional",
+          "eventType": "Sessão Temática Oral"
+        }
+      }
+    },
+    {
+      "Dia": 12,
+      "Sala": "Girassol",
+      "Pax": 150,
+      "events": {
+        "08h30 - 10h": {
+          "order": 51,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão do Produto",
+          "eventType": "Sessão Temática Oral"
+        },
+        "10h30 - 12h": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão Estratégica e Organizacional",
+          "eventType": "Sessão Temática Oral"
+        },
+        "13h30 - 15h": {
+          "order": 61,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão Ambiental dos Processos Produtivos",
+          "eventType": "Sessão Temática Oral"
+        },
+        "15h - 16h30": {
+          "order": 67,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Educação em Engenharia de Produção",
+          "eventType": "Sessão Temática Oral"
+        }
+      }
+    },
+    {
+      "Dia": 12,
+      "Sala": "Margarida",
+      "Pax": 40,
+      "events": {
+        "08h30 - 10h":  {
+          "order": 3,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Lean Healthcare - Situação Atual e Perspectivas da Engenharia de Produção",
+          "eventType": "Sessão Dirigida"
+        },
+        "10h30 - 12h":  {
+          "order": 4,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Metodologias Ativas, Currículos Integrados e Cursos de Curta Duração: uma forma de conferir aos egressos dos cursos de Engenharia de Produção as novas habilidades e competências exigidas pelo mercado de trabalho.",
+          "eventType": "Sessão Dirigida"
+        },
+        "13h30 - 15h": {
+          "order": 62,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Produção",
+          "eventType": "Sessão Temática Oral"
+        },
+        "15h - 16h30": {
+          "order": 68,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão do Conhecimento Organizacional",
+          "eventType": "Sessão Temática Oral"
+        }
+      }
+    },
+    {
+      "Dia": 12,
+      "Sala": "Acácia",
+      "Pax": 40,
+      "events": {
+        "08h30 - 10h": {
+          "order": 7,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Workshop de Iniciação Científica",
+          "eventType": "Workshop de Iniciação Científica"
+        },
+        "10h30 - 12h": {
+          "order": 8,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Workshop de Iniciação Científica",
+          "eventType": "Workshop de Iniciação Científica"
+        },
+        "13h30 - 15h": {
+          "order": 69,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Produção",
+          "eventType": "Sessão Temática Oral"
+        },
+        "15h - 16h30": {
+          "order": 69,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Produção",
+          "eventType": "Sessão Temática Oral"
+        },
+        "17h - 18h30": {
+          "order": 74,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Produção",
+          "eventType": "Sessão Temática Oral"
+        }
+      }
+    },
+    {
+      "Dia": 12,
+      "Sala": "Violeta",
+      "Pax": 40,
+      "events": {
+        "08h30 - 10h": {
+          "order": 52,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Produção",
+          "eventType": "Sessão Temática Oral"
+        },
+        "10h30 - 12h": {
+          "order": 56,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Produção",
+          "eventType": "Sessão Temática Oral"
+        },
+        "13h30 - 15h": {
+          "order": 64,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Pesquisa Operacional",
+          "eventType": "Sessão Temática Oral"
+        },
+        "15h - 16h30": {
+          "order": 70,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Pesquisa Operacional",
+          "eventType": "Sessão Temática Oral"
+        },
+        "17h - 18h30": {
+          "order": 75,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
+          "eventType": "Sessão Temática Oral"
+        }
+      }
+    },
+    {
+      "Dia": 12,
+      "Sala": "Antúrio",
+      "Pax": 40,
+      "events": {
+        "08h30 - 10h": {
+          "order": 53,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão Econômica",
+          "eventType": "Sessão Temática Oral"
+        },
+        "10h30 - 12h": {
+          "order": 57,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Qualidade",
+          "eventType": "Sessão Temática Oral"
+        },
+        "13h30 - 15h": {
+          "order": 2,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Sessão Temática Internacional",
+          "eventType": "Sessão Temática Internacional"
+        },
+        "15h - 16h30": {
+          "order": 71,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão da Qualidade",
+          "eventType": "Sessão Temática Oral"
+        },
+        "17h - 18h30": {
+          "order": 76,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão do Conhecimento Organizacional",
+          "eventType": "Sessão Temática Oral"
+        }
+      }
+    },
+    {
+      "Dia": 12,
+      "Sala": "Gérbera",
+      "Pax": 40,
+      "events": {
+        "08h30 - 10h": {
+          "order": 54,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Engenharia de Produção, Sustentabilidade e Responsabilidade Social",
+          "eventType": "Sessão Temática Oral"
+        },
+        "10h30 - 12h": {
+          "order": 58,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Gestão Estratégica e Organizacional",
+          "eventType": "Sessão Temática Oral"
+        },
+        "13h30 - 15h": {
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Encontro de Núcleos Estaduais (ABEPRO Jovem)",
+          "eventType": "Encontro"
+        },
+        "17h - 18h30": {
+          "order": 77,
+          "description": "# Esse é um título\n\n* Esse é uma lista **itálico** \n* _Uma_ Lista de coisas \n* sobre o ~~evento~~ , palestra ou workshop! \n\n\u003e Aqui é um bloco \n\n![Dá pra colocar iamgem também!](http://placehold.it/300x300) \n[Ou um link](http://foobar.com) \n",
+          "name": "Pesquisa Operacional",
+          "eventType": "Sessão Temática Oral"
+        }
+      }
+    }
+  ]
+}
